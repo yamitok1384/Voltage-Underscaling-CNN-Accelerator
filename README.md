@@ -4,7 +4,7 @@
 This project investigates how to **reduce the power consumption** of **CNN accelerators** using the **Voltage Underscaling** technique. This allows the accelerator to consume less power while maintaining the accuracy of the neural network, even in the presence of permanent memory faults.
 
 ### 🔹 **Project characteristics**.  
-- ✔️ Simulation of the impact of **Voltage Underscaling** on different CNN architectures (VGG, ResNet, Inception, etc.).  
+- ✔️ Simulation of the impact of **Voltage Underscaling** on different CNN architectures (AlexNet,Densenet,MobileNet,SqueezNet,VGG16, VGG19,ZFNet, ResNet, Inception, Xception).  
 - ✔️ Modelling of **permanent memory failures** and their impact on CNN inference.  
 - ✔️ Implementation of **error mitigation** techniques to maintain accuracy.  
 - ✔️ Comparison of **energy consumption** before and after optimisation.
